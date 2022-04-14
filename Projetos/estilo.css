@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #151515;
+    border-bottom: solid white;
+    font-size: 40px;
+    
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(117,9,197,1) 14%, rgba(0,212,255,1) 91%);
+}
+
+#foto_pessoal{
+    display: flex;
+    justify-content: center;
+        
+}
+
+
+a {
+    color: inherit;
+}
+
+blockquote {
+    padding: 16px;
+    border: double white;
+    width: 600px;
+    margin: 0  auto;
+    background: 533C8F
+
+    
+}
+li{
+    display: inline-block;
+}
+
+
+#facebookicon{
+    width: 40px;
+    height: 35px;
+}
+
+#instagramicon{
+    width: 40px;
+    height: 35px;}
+
